@@ -1,8 +1,8 @@
 # Keyphrase Checker Action 🔎
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/release/skills/action-keyphrase-checker.svg)](https://github.com/skills/action-keyphrase-checker/releases)
-[![Continuous Integration](https://github.com/skills/action-text-variables/actions/workflows/ci.yml/badge.svg)](https://github.com/skills/action-keyphrase-checker/actions/workflows/ci.yml)
+[![GitHub release](https://img.shields.io/github/release/skills/action-keyphrase-checker.svg)](https://github.com/Sombrerita/action-keyphrase-checker/releases)
+[![Continuous Integration](https://github.com/Sombrerita/action-text-variables/actions/workflows/ci.yml/badge.svg)](https://github.com/Sombrerita/action-keyphrase-checker/actions/workflows/ci.yml)
 
 Search for keyphrases in text content or files. Validates if a specific phrase
 appears a minimum number of times with options for case sensitivity.
@@ -102,3 +102,4 @@ steps:
 
 This project is licensed under the MIT License - see the LICENSE file for
 details.
+
