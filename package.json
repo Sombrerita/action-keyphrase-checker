@@ -6,10 +6,10 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skills/action-keyphrase-checker.git"
+    "url": "git+https://github.com/Sombrerita/action-keyphrase-checker.git"
   },
   "bugs": {
-    "url": "https://github.com/skills/action-keyphrase-checker/issues"
+    "url": "https://github.com/Sombrerita/action-keyphrase-checker/issues"
   },
   "keywords": [
     "actions"
@@ -67,3 +67,4 @@
     "@rollup/rollup-linux-x64-gnu": "*"
   }
 }
+
